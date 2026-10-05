@@ -2,6 +2,7 @@
 *.out
 *.o
 lab01_operationsOnStack
+lab02_infixToPostfix
 
 # macOS
 .DS_Store
