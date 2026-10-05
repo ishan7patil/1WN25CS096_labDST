@@ -1,0 +1,10 @@
+# C compiled executables
+*.out
+*.o
+lab01_operationsOnStack
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
