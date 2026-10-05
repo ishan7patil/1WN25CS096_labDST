@@ -3,6 +3,7 @@
 *.o
 lab01_operationsOnStack
 lab02_infixToPostfix
+lab02_leetcodeChallenge
 
 # macOS
 .DS_Store
